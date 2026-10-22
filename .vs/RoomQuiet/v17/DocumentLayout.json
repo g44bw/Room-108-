@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria.gpsantos11\\source\\repos\\RoomQuiet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF943A2-1119-429B-A286-F9FCC05C4C99}|RoomQuiet\\RoomQuiet.vcxproj|C:\\Users\\maria.gpsantos11\\source\\repos\\RoomQuiet\\RoomQuiet\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF943A2-1119-429B-A286-F9FCC05C4C99}|RoomQuiet\\RoomQuiet.vcxproj|solutionrelative:RoomQuiet\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\maria.gpsantos11\\source\\repos\\RoomQuiet\\RoomQuiet\\main.c",
+              "RelativeDocumentMoniker": "RoomQuiet\\main.c",
+              "ToolTip": "C:\\Users\\maria.gpsantos11\\source\\repos\\RoomQuiet\\RoomQuiet\\main.c",
+              "RelativeToolTip": "RoomQuiet\\main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-22T00:45:39.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
